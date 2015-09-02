@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: lknny
-baseurl:  /blog
+baseurl:  /
 markdown: redcarpet
 safe: false
 highlighter: pygments
